@@ -1,0 +1,3 @@
+@ug_questions.map do |ug_question|
+  render partial: "ug_question.json.jb", locals: {ug_question: ug_question}
+end

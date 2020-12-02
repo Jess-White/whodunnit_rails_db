@@ -1,0 +1,2 @@
+class UgQuestion < ApplicationRecord
+end

@@ -1,0 +1,5 @@
+{
+    id: ug_question.id,
+    title: ug_question.title,
+    correct: ug_question.correct
+  }
